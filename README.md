@@ -29,7 +29,7 @@ This project solves these problems by combining RFID with audio playback for dyn
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](image/circuit_diagram.png)
+<img src="image/circuit_diagram.png" alt="Circuit Diagram" width="300"/>
 
 The circuit consists of several components such as:
 
@@ -50,10 +50,9 @@ The circuit consists of several components such as:
 
 ## 📷 Prototype Image
 
-![Prototype of Jungle Jams Tram](image/prototype.png)
+<img src="image/prototype.png" alt="Prototype of Jungle Jams Tram" width="300"/>
 
 The RFID reader is installed underneath the tram. As the tram moves along the track, it passes over RFID cards embedded on the road at each animal habitat. When a card is detected, the system plays a specific audio clip through the onboard speaker to provide visitors with engaging information about the animals.
-
 
 ## 🔧 How It Works
 
@@ -62,6 +61,7 @@ The RFID reader is installed underneath the tram. As the tram moves along the tr
 3. Arduino reads the UID and determines which audio file to play.
 4. DFPlayer Mini plays the corresponding `.mp3` from the SD card.
 5. The speaker outputs the audio to the visitors.
+
 ## 💻 Software & Tools
 
 - **Arduino IDE** – for coding
@@ -82,3 +82,4 @@ The RFID reader is installed underneath the tram. As the tram moves along the tr
 - [Mohamad Firdaus bin Hasan](#)
 
 > Supervised by: **Dr. Zaiton binti Abdul Mutalip**
+
