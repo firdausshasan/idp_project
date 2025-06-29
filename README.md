@@ -29,7 +29,7 @@ This project solves these problems by combining RFID with audio playback for dyn
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](image/circuit_diagram.png)
 
 The circuit consists of several components such as:
 
@@ -50,7 +50,7 @@ The circuit consists of several components such as:
 
 ## 📷 Prototype Image
 
-![Prototype of Jungle Jams Tram](images/prototype.png)
+![Prototype of Jungle Jams Tram](image/prototype.png)
 
 The RFID reader is installed underneath the tram. As the tram moves along the track, it passes over RFID cards embedded on the road at each animal habitat. When a card is detected, the system plays a specific audio clip through the onboard speaker to provide visitors with engaging information about the animals.
 
